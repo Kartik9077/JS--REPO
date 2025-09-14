@@ -1,0 +1,19 @@
+console.log("1"+1+2)
+console.log(1+2+"1")
+console.log("1"+(1+2))
+console.log(1+"1"+2)
+console.log(1+(+"1")+2)
+console.log(1+ +"1"+2)
+console.log("+null")
+num=100;
+num++;
+console.log( num)
+++num;
+console.log(num)
+console.log(++num)
+console.log(num++)
+ppp=3
+console.log(ppp++)
+console.log(++ppp)
+let num1=num2=num3=4
+console.log( num1,num2,num3)
